@@ -1,0 +1,5 @@
+C:\Users\dm\source\repos\CurApp\Model.BL\bin\Release\Model.BL.dll
+C:\Users\dm\source\repos\CurApp\Model.BL\bin\Release\Model.BL.pdb
+C:\Users\dm\source\repos\CurApp\Model.BL\obj\Release\Model.BL.csproj.CoreCompileInputs.cache
+C:\Users\dm\source\repos\CurApp\Model.BL\obj\Release\Model.BL.dll
+C:\Users\dm\source\repos\CurApp\Model.BL\obj\Release\Model.BL.pdb
